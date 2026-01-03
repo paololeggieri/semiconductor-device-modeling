@@ -30,3 +30,4 @@ xlabel('V (Volt)');
 ylabel('|I| (Ampere) - scala log');
 title('Diodo ideale: effetto della temperatura (Shockley)');
 legend('T = 250 K', 'T = 300 K', 'T = 350 K', 'Location', 'northwest');
+
