@@ -14,3 +14,7 @@ This repository contains simple MATLAB scripts for modeling semiconductor device
 ## Step 2: Temperature sweep
 - Script: code/diode_IV_temperature.m
 - Output: figures/diode_IV_temperature.png
+
+## Step 3: Series resistance effect
+- Script: code/diode_IV_series_resistance.m
+- Output: figures/diode_IV_series_resistance.png
