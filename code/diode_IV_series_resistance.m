@@ -32,3 +32,4 @@ xlabel('V (Volt)');
 ylabel('|I| (Ampere) - scala log');
 title('Diodo ideale vs diodo con resistenza serie');
 legend('Diodo ideale', 'Diodo con Rs = 5 \Omega', 'Location', 'northwest');
+
